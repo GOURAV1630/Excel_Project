@@ -1,5 +1,5 @@
 # Excel_Project
-Vrinda Store Annual Report 2022  - Interactive dashboarb  (automatics sales report)
+## Vrinda Store Annual Report 2022  - Interactive dashboarb  (automatics sales report)
 ![Excel Project-1](https://github.com/GOURAV1630/Excel_Project/assets/146067299/0dff90a0-44a0-47f7-9c03-22c974b14d00)
 
 ## Objective
@@ -14,12 +14,12 @@ Highlighting the new columns added with yellow colour.
 
 ### Data analysis
 Making Pivot tables according to different sample questions and making pivot charts cleamn for reading.
-1. Orders Vs Sales (line chart)
-2. Men vs Women (pie chart)
-3. Order Status (Pie chart)
-4. Sales: Top 5 states (Horizontal Bar)
-5. Age and Gender (Column Chart)
-6. Channels (Pie Chart)
+#### 1. Orders Vs Sales (line chart) ![order vs sales](https://github.com/GOURAV1630/Excel_Project/assets/146067299/38181734-6c3f-446a-b6b5-aabb0090ee06)
+#### 2. Men vs Women (pie chart) ![men women](https://github.com/GOURAV1630/Excel_Project/assets/146067299/6d59e47c-82c6-4d42-bece-4898dec53ff9)
+#### 3. Order Status (Pie chart) ![order status](https://github.com/GOURAV1630/Excel_Project/assets/146067299/f84d8ae6-1172-4e54-82ac-e6469fc29dd2)
+#### 4. Sales: Top 5 states (Horizontal Bar) ![top 5 states](https://github.com/GOURAV1630/Excel_Project/assets/146067299/346d9e07-ebdc-4604-abf5-99d81734aab2)
+#### 5. Age and Gender (Column Chart) ![age vs gender](https://github.com/GOURAV1630/Excel_Project/assets/146067299/cfd1ddae-0eff-4769-b7a4-7b907d33b5ed)
+#### 6. Channels (Pie Chart) ![channles](https://github.com/GOURAV1630/Excel_Project/assets/146067299/2c2bf23e-7c2a-4618-9521-688f0e687599)
 
 Inserting Slicer(slicer can only be inersted if we have a pivot table). Adding 3 slicer that month,channel and category. Then sync all the pivot tables with slicers. Applying filter to any one slicer will show data at pivot tables.
 
